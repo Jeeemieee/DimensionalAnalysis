@@ -11,7 +11,7 @@ the code should be re-run and the input can be tried again.
 3) When the inputted function is correct the code continues with the input of the units as a function in the form of kg^1*m^1*s^-2. Note that all units need to be supplied
 with their power, even if the power is 1, next to this the code only takes integers as power input.
 4) The code will now calculate and output the final result. Note that if the results seem too complex the input should be done in a different order, the variabels inputted
-first tend to be used over the variables inputted later.
+first tend to be used as independent variables over the variables inputted later.
 
 The code contains several error messages to prevent abuse and should ensure correct output. When it detects wrong input it will notify the user what went wrong and when 
 possible it allows re-input of the incorrect data. Please, if you find an unexpected error or inefficiency in the code, contact me on my email jaimy.g@hotmail.com. This was
